@@ -1,2 +1,2 @@
-"echo Build triggered from GitHub" 
+"echo Build triggered from GitHub for testing" 
 "date" 
